@@ -39,13 +39,13 @@ This repository contains a Power BI dashboard that provides a comprehensive anal
 
 - **[Power BI Dashboard File](https://github.com/Vishnugnath/Capstone-project-Crypto-currency-analysis/blob/main/powerBI%20dashboard/crypto.pbix)**: The `.pbix` file contains the complete dashboard setup and data sources.
 
-## Screenshots
+## Pages
 
 ### Page 1 - Market Overview
-![Market Overview](path-to-screenshot-page1)
+
 
 ### Page 2 - Volatility and Daily Returns
-![Volatility and Daily Returns](path-to-screenshot-page2)
+
 
 ## About the Data
 
